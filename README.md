@@ -15,4 +15,6 @@
 •	Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
 ## Dashboard : 
+
+https://public.tableau.com/app/profile/sravan.kumar.mangalagiri8100/viz/TableauEVDataAnalysis/Dashboard2
 ![image](https://github.com/user-attachments/assets/8f5b0453-6412-4e7a-9e6a-ad0e8c8db5d9)
