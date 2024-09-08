@@ -2,6 +2,9 @@
 
 ## Dataset : https://catalog.data.gov/dataset/electric-vehicle-population-data
 
+The dataset contains information about electric vehicles across various dimensions, such as vehicle type, make, model, battery specifications, and geographic distribution. With 1.5 million rows, it is a comprehensive resource for understanding the growing EV market.
+
+
 ## KPI Requirements : 
 1. Total Vehicles:
 •	Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
