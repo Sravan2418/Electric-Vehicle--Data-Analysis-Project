@@ -1,9 +1,8 @@
 # Electric Vehicle Data Analysis
 
-## Dataset : https://catalog.data.gov/dataset/electric-vehicle-population-data
+## Dataset
 
 The dataset contains information about electric vehicles across various dimensions, such as vehicle type, make, model, battery specifications, and geographic distribution. With 1.5 million rows, it is a comprehensive resource for understanding the growing EV market.
-
 
 ## KPI Requirements : 
 1. Total Vehicles:
@@ -17,7 +16,7 @@ The dataset contains information about electric vehicles across various dimensio
 •	Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 •	Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
-## Dashboard : 
+# Dashboard : 
 
 ![image](https://github.com/user-attachments/assets/8f5b0453-6412-4e7a-9e6a-ad0e8c8db5d9)
 
